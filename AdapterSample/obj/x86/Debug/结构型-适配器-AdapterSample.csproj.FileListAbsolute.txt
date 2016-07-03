@@ -1,0 +1,11 @@
+D:\Demo\设计模式源码\设计模式\AdapterSample\bin\Debug\AdapterSample.exe.config
+D:\Demo\设计模式源码\设计模式\AdapterSample\bin\Debug\AdapterSample.exe
+D:\Demo\设计模式源码\设计模式\AdapterSample\bin\Debug\AdapterSample.pdb
+D:\Demo\设计模式源码\设计模式\AdapterSample\obj\x86\Debug\AdapterSample.exe
+D:\Demo\设计模式源码\设计模式\AdapterSample\obj\x86\Debug\AdapterSample.pdb
+C:\Users\Administrator\Downloads\设计模式源码\设计模式源码\设计模式\AdapterSample\bin\Debug\AdapterSample.exe.config
+C:\Users\Administrator\Downloads\设计模式源码\设计模式源码\设计模式\AdapterSample\obj\x86\Debug\AdapterSample.exe
+C:\Users\Administrator\Downloads\设计模式源码\设计模式源码\设计模式\AdapterSample\obj\x86\Debug\AdapterSample.pdb
+C:\Users\Administrator\Downloads\设计模式源码\设计模式源码\设计模式\AdapterSample\bin\Debug\AdapterSample.exe
+C:\Users\Administrator\Downloads\设计模式源码\设计模式源码\设计模式\AdapterSample\bin\Debug\AdapterSample.pdb
+C:\Users\Administrator\Downloads\设计模式源码\设计模式源码\设计模式\AdapterSample\obj\x86\Debug\结构型-适配器-AdapterSample.csprojResolveAssemblyReference.cache

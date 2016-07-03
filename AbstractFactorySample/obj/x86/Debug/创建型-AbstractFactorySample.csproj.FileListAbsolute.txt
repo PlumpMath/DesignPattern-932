@@ -1,0 +1,6 @@
+D:\Demo\设计模式源码\设计模式\AbstractFactorySample\bin\Debug\AbstractFactorySample.exe.config
+D:\Demo\设计模式源码\设计模式\AbstractFactorySample\bin\Debug\AbstractFactorySample.exe
+D:\Demo\设计模式源码\设计模式\AbstractFactorySample\bin\Debug\AbstractFactorySample.pdb
+D:\Demo\设计模式源码\设计模式\AbstractFactorySample\obj\x86\Debug\创建型-AbstractFactorySample.csprojResolveAssemblyReference.cache
+D:\Demo\设计模式源码\设计模式\AbstractFactorySample\obj\x86\Debug\AbstractFactorySample.exe
+D:\Demo\设计模式源码\设计模式\AbstractFactorySample\obj\x86\Debug\AbstractFactorySample.pdb

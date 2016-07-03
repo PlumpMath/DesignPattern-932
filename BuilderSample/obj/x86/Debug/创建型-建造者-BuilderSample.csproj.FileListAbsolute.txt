@@ -1,0 +1,10 @@
+D:\Demo\设计模式源码\设计模式\BuilderSample\bin\Debug\BuilderSample.exe.config
+D:\Demo\设计模式源码\设计模式\BuilderSample\bin\Debug\BuilderSample.exe
+D:\Demo\设计模式源码\设计模式\BuilderSample\bin\Debug\BuilderSample.pdb
+D:\Demo\设计模式源码\设计模式\BuilderSample\obj\x86\Debug\BuilderSample.exe
+D:\Demo\设计模式源码\设计模式\BuilderSample\obj\x86\Debug\BuilderSample.pdb
+C:\Users\Administrator\Downloads\设计模式源码\设计模式源码\设计模式\BuilderSample\bin\Debug\BuilderSample.exe.config
+C:\Users\Administrator\Downloads\设计模式源码\设计模式源码\设计模式\BuilderSample\bin\Debug\BuilderSample.exe
+C:\Users\Administrator\Downloads\设计模式源码\设计模式源码\设计模式\BuilderSample\bin\Debug\BuilderSample.pdb
+C:\Users\Administrator\Downloads\设计模式源码\设计模式源码\设计模式\BuilderSample\obj\x86\Debug\BuilderSample.exe
+C:\Users\Administrator\Downloads\设计模式源码\设计模式源码\设计模式\BuilderSample\obj\x86\Debug\BuilderSample.pdb

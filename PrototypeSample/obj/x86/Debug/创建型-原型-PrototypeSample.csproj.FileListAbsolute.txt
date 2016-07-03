@@ -1,0 +1,8 @@
+D:\Demo\设计模式源码\设计模式\PrototypeSample\bin\Debug\PrototypeSample.exe
+D:\Demo\设计模式源码\设计模式\PrototypeSample\bin\Debug\PrototypeSample.pdb
+D:\Demo\设计模式源码\设计模式\PrototypeSample\obj\x86\Debug\PrototypeSample.exe
+D:\Demo\设计模式源码\设计模式\PrototypeSample\obj\x86\Debug\PrototypeSample.pdb
+C:\Users\Administrator\Downloads\设计模式源码\设计模式源码\设计模式\PrototypeSample\bin\Debug\PrototypeSample.exe
+C:\Users\Administrator\Downloads\设计模式源码\设计模式源码\设计模式\PrototypeSample\bin\Debug\PrototypeSample.pdb
+C:\Users\Administrator\Downloads\设计模式源码\设计模式源码\设计模式\PrototypeSample\obj\x86\Debug\PrototypeSample.exe
+C:\Users\Administrator\Downloads\设计模式源码\设计模式源码\设计模式\PrototypeSample\obj\x86\Debug\PrototypeSample.pdb

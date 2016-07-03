@@ -1,0 +1,10 @@
+D:\Demo\设计模式源码\设计模式\SingletonSample\bin\Debug\SingletonSample.exe
+D:\Demo\设计模式源码\设计模式\SingletonSample\bin\Debug\SingletonSample.pdb
+D:\Demo\设计模式源码\设计模式\SingletonSample\obj\x86\Debug\SingletonSample.exe
+D:\Demo\设计模式源码\设计模式\SingletonSample\obj\x86\Debug\SingletonSample.pdb
+D:\Demo\设计模式源码\设计模式\SingletonSample\obj\x86\Debug\创建型-单例-SingletonSample.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\设计模式源码\设计模式源码\设计模式\SingletonSample\bin\Debug\SingletonSample.exe
+C:\Users\Administrator\Downloads\设计模式源码\设计模式源码\设计模式\SingletonSample\bin\Debug\SingletonSample.pdb
+C:\Users\Administrator\Downloads\设计模式源码\设计模式源码\设计模式\SingletonSample\obj\x86\Debug\创建型-单例-SingletonSample.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\设计模式源码\设计模式源码\设计模式\SingletonSample\obj\x86\Debug\SingletonSample.exe
+C:\Users\Administrator\Downloads\设计模式源码\设计模式源码\设计模式\SingletonSample\obj\x86\Debug\SingletonSample.pdb

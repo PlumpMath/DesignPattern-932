@@ -1,0 +1,5 @@
+D:\Demo\设计模式源码\设计模式\FlyweightSample\bin\Debug\FlyweightSample.exe
+D:\Demo\设计模式源码\设计模式\FlyweightSample\bin\Debug\FlyweightSample.pdb
+D:\Demo\设计模式源码\设计模式\FlyweightSample\obj\x86\Debug\结构型-享元-FlyweightSample.csprojResolveAssemblyReference.cache
+D:\Demo\设计模式源码\设计模式\FlyweightSample\obj\x86\Debug\FlyweightSample.exe
+D:\Demo\设计模式源码\设计模式\FlyweightSample\obj\x86\Debug\FlyweightSample.pdb
